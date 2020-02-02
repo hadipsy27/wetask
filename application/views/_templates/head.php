@@ -55,5 +55,17 @@
 	.breadcrumb {
 		background-color: transparent;
 	}
+
+	.sidebar {
+		/* padding-left: 5%; */
+		top: 10% !important;
+	}
+
+	.content {
+		/* margin-top: 10 !important; */
+		display: inline;
+		margin-left: 20% !important;
+
+	}
 	</style>
 </head>
