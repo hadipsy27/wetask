@@ -67,5 +67,13 @@
 		margin-left: 20% !important;
 
 	}
+
+	.main-menu {
+		top: 125px;
+		bottom: -76%;
+		overflow: auto;
+		scrollbar-base-color: gold;
+		overflow-y: scroll;
+	}
 	</style>
 </head>

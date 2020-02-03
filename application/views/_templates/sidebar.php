@@ -555,6 +555,26 @@
 					</li>
 				</ul>
 			</li>
+			<li class=" nav-item"><a href="#"><i class="la la-image"></i><span class="menu-title"
+						data-i18n="nav.gallery_pages.main">Gallery</span></a>
+				<ul class="menu-content">
+					<li><a class="menu-item" href="gallery-grid.html" data-i18n="nav.gallery_pages.gallery_grid">Gallery
+							Grid</a>
+					</li>
+					<li><a class="menu-item" href="gallery-grid-with-desc.html"
+							data-i18n="nav.gallery_pages.gallery_grid_with_desc">Gallery Grid with Desc</a>
+					</li>
+					<li><a class="menu-item" href="gallery-masonry.html" data-i18n="nav.gallery_pages.gallery_masonry">Masonry
+							Gallery</a>
+					</li>
+					<li><a class="menu-item" href="gallery-masonry-with-desc.html"
+							data-i18n="nav.gallery_pages.gallery_masonry_with_desc">Masonry Gallery with Desc</a>
+					</li>
+					<li><a class="menu-item" href="gallery-hover-effects.html"
+							data-i18n="nav.gallery_pages.gallery_hover_effects">Hover Effects</a>
+					</li>
+				</ul>
+			</li>
 
 	</div>
 </div>
